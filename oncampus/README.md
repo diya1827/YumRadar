@@ -34,7 +34,6 @@ Users provide their preferences like:
 - Budget
 - Food preference (Veg/Non-Veg)
 - Willingness for drinks
-- Travel time range
 
 The model processes this input, encodes it, and predicts the most relevant food outlet on campus.
 
