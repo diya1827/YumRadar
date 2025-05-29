@@ -1,8 +1,8 @@
-# 🍽️ On-Campus Food Recommendation Model - YumRadar (On Campus)
+# On-Campus Food Recommendation Model - YumRadar (On Campus)
 
 This repository contains the on-campus module of the YumRadar food recommendation system designed to suggest the best eating outlets within the DTU campus based on user preferences. It leverages machine learning to predict suitable food spots like Raj Soin, Hims, Raydee, Dosa Plaza, Nescafe, and more.
 
-## 📊 Overview
+## Description
 
 - Model Used: Random Forest Classifier (Best accuracy: 82%)
 - Other Models Tried: Logistic Regression, XGBoost
@@ -13,7 +13,7 @@ This repository contains the on-campus module of the YumRadar food recommendatio
   - Encoded using ColumnTransformer
 - Deployment Ready: Integrated with a Streamlit frontend for real-time prediction with mapped inputs
 
-## 🏫 On-Campus Outlets Covered
+## On-Campus Outlets Covered
 
 - Raj Soin  
 - Hims  
@@ -26,7 +26,7 @@ This repository contains the on-campus module of the YumRadar food recommendatio
 - Bistro  
 - Dazzledine  
 
-## 🚀 How It Works
+## How It Works
 
 Users provide their preferences like:
 - Hunger level
